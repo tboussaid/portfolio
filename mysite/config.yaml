@@ -178,7 +178,7 @@ params:
 
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with:"
+      title: "Here are also few technologies I've been working with:"
       items:
         - "HTML/CSS"
         - "Javascript"
@@ -211,6 +211,16 @@ params:
         date: "March 2022 - August 2022"
         content: "Development and deployment of geometric convolutional neural networks (GCNN) as surrogate models for CFD simulations to accelerate the design phase of hydrauloc turbines."
 
+      - job: "Tech Lead"
+        company: "Forum Organisation"
+        companyUrl: "https://www.forumorg.org/"
+        date: "March 2021 - March 2022"
+        content: | 
+          Head of Tech within a professional association that generates contacts between recruiters and students. With my team of 8 people, we conducted the following missions:
+
+          - Management, development and maintenance of a job-dating platform (visio modules, blog with headless cms etc.)
+          - Development of the Data/BI pipeline for the different activities of the association (KPIs, Power BI)
+      
       - job: "Research intern"
         company: "University College London"
         companyUrl: "https://www.ucl.ac.uk/mechanical-engineering/ucl-mechanical-engineering"
