@@ -168,13 +168,13 @@ params:
 
       Given my academic background, I am always curious to work on and know more about the following subjects:
 
-      * Artificial intelligence and data science applied to the optimisation of energy systems.<br>
+      #### Artificial intelligence and data science applied to the optimisation of energy systems.<br>
 
-      * Renewable energy production, conversion and storage systems.<br>
+      #### Renewable energy production, conversion and storage systems.<br>
 
-      * Turbomachinery.<br>
+      #### Turbomachinery.<br>
 
-      * Numerical modelling, maths & probability.
+      #### Numerical modelling, maths & probability.
 
     skills:
       enable: true
