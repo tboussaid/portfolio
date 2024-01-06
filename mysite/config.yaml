@@ -123,10 +123,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
+    intro: "Hello, my name is"
     title: "Taha."
-    subtitle: "I am a PhD student."
-    content: "As a Thermodynamic & Fluid mechanics passionate, Data.Sc & AI enthusiast, I work on multi-criteria predictive control optimization of distributed energy systems, using physics-based machine learning."
+    subtitle: "I am a PhD candidate."
+    content: "As a Thermodynamic & Fluid mechanics passionate, Data.Sc & AI enthusiast, I work on multi-criteria predictive control optimization of distributed energy systems under uncertainty, using physics-based machine learning."
     image: /images/personal.JPEG
     bottomImage:
       enable: true
@@ -154,7 +154,11 @@ params:
     title: "About Me"
     image: "/images/personal.JPEG"
     content: |-
-      I am currently a PhD student at [INSA Lyon, France](https://www.insa-lyon.fr/en/). I work on multi-criteria predictive control optimization of distributed energy systems, using physics-based & probabilistic machine learning approaches. 
+      I am currently a PhD candidate at [INSA Lyon, France](https://www.insa-lyon.fr/en/). Specifically, my thesis is being held in two laboratories: 
+      
+      * [CETHIL](https://cethil.insa-lyon.fr/en/), center for energy and thermal sciences of Lyon.
+
+      * [LIRIS](https://liris.cnrs.fr/en), image and information systems Laboratory.
 
       During my 5 years of engineering studies I had the opportunity to work on different projects, with different scopes : CFD / Energy optimization / Environmental policies / CAD / AI & Data.Sc.
 
@@ -162,7 +166,15 @@ params:
 
       I have been involved in various associations, and have acquired transversal skills in team management and IT projects.
 
-      Please feel free to contact me for a discussion or if you need any further information about my career. I am always happy to meet new people! 
+      Given my academic background, I am always curious to work on and know more about the following subjects:
+
+      * Artificial intelligence and data science applied to the optimisation of energy systems.
+
+      * Renewable energy production, conversion and storage systems.
+
+      * Turbomachinery.
+
+      * Numerical modelling, maths & probability.
 
     skills:
       enable: true
@@ -173,8 +185,11 @@ params:
         - "Python (ML)"
         - "Java"
         - "MongoDB"
+        - "SQL"
+        - "Power BI"
         - "StarCCM+"
-        - "Ansys CFD"
+        - "Ansys Fluent/CFX"
+        - "Aspen Hysys"
         - "PVSyst"
         - "TRNSys"
         - "Matlab/Simulink"
