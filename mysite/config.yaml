@@ -215,11 +215,11 @@ params:
         company: "Forum Organisation"
         companyUrl: "https://www.forumorg.org/"
         date: "March 2021 - March 2022"
-        content: | 
+        content: |- 
           Head of Tech within a professional association that generates contacts between recruiters and students. With my team of 8 people, we conducted the following missions:
 
           - Management, development and maintenance of a job-dating platform (visio modules, blog with headless cms etc.)
-          - Development of the Data/BI pipeline for the different activities of the association (KPIs, Power BI)
+          - Development of a Data/BI pipeline for the different activities of the association (KPIs, Power BI)
       
       - job: "Research intern"
         company: "University College London"
@@ -229,7 +229,7 @@ params:
           enable: true
           name: "Summary paper"
           url: "https://drive.proton.me/urls/FVF5349QVW#iXgcuD3Pcegh"
-        content: |
+        content: |-
           My work focused on two separate projects : 
           
           - The study, conception and design of microchannel heat sinks for power electronics. A state of art of the current advances have been made and novel designs were proposed and studied. Finally, the work also focused on the use of nanofluids to enhance the heat transfer.
@@ -237,20 +237,25 @@ params:
 
   # Education
   education:
-    enable: false
-    # title: "Custom Name"
+    enable: true
+    title: "Academic background and projects"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Engineer in Energy and Environmental Sciences"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "INSA Lyon"
+          url: "https://gen.insa-lyon.fr/en/"
+        date: "2017 - 2022"
         content: |-
+          My degree was obtained after succeeding in two cycles:
+          
+          - First cycle [2017-2019]: initial training for engineering professions (pure sciences such as maths, fundamental physics and chimestry)
+          - Second cycle [2019-2022]: energy and environment master (heat transfer, fluid mechanic, advanced thermodynamic, tubormachines, data science)
+
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            - President of the association of Moroccan engineers and researchers of INSA Lyon [(ACEIMI)](https://www.aceimi-insa.com/)
+            - Member of the course strategy team at [Proto INSA Club](http://protoinsaclub.fr/) (low consumption vehicle construction). 
+
       - title: "Bachelor of Science in Computer Science"
         school:
           name: "Massachusetts Institute of Technology"
@@ -271,12 +276,11 @@ params:
           url: "https://example.com"
       - title: "High School"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          name: "ESL High School (Fez, Morocco)."
+        content: |-
+          High School diploma in mathematical science with high honors.
+          Global year average: 18.82 out of 20.
+        
 
   # Achievements
   achievements:
