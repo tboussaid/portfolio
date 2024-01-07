@@ -199,7 +199,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "PhD Student"
+      - job: "PhD Candidate"
         company: "CETHIL"
         companyUrl: "https://cethil.insa-lyon.fr/en/"
         date: "October 2022 - Present"
@@ -256,29 +256,11 @@ params:
             - President of the association of Moroccan engineers and researchers of INSA Lyon [(ACEIMI)](https://www.aceimi-insa.com/)
             - Member of the course strategy team at [Proto INSA Club](http://protoinsaclub.fr/) (low consumption vehicle construction). 
 
-      - title: "Bachelor of Science in Computer Science"
-        school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
       - title: "High School"
         school:
           name: "ESL High School (Fez, Morocco)."
         content: |-
-          High School diploma in mathematical science with high honors.
+          High School diploma in mathematical science with high honors.<br>
           Global year average: 18.82 out of 20.
         
 
