@@ -182,13 +182,14 @@ params:
       items:
         - "HTML/CSS"
         - "Javascript"
-        - "Python (ML)"
+        - "Python"
         - "Java"
         - "MongoDB"
         - "SQL"
         - "Power BI"
         - "StarCCM+"
         - "Ansys Fluent/CFX"
+        - "Paraview"
         - "Aspen Hysys"
         - "PVSyst"
         - "TRNSys"
@@ -238,7 +239,7 @@ params:
   # Education
   education:
     enable: true
-    title: "Education and projects"
+    title: "Education"
     index: false
     items:
       - title: "Engineer in Energy and Environmental Sciences"
@@ -256,9 +257,20 @@ params:
             - President of the association of Moroccan engineers and researchers of INSA Lyon [(ACEIMI)](https://www.aceimi-insa.com/)
             - Member of the course strategy team at [Proto INSA Club](http://protoinsaclub.fr/) (low consumption vehicle construction). 
 
+      - title: "MSc Thesis"
+        school: 
+          name: "University College London (UCL)"
+          url: "https://www.ucl.ac.uk/"
+        date: "2021"
+        content: |-
+          I conducted my MSc thesis for 5 months in the "Advanced Electric propulsion" laboratory of the mechanical engineering department. My work consisted on the 
+          evaluation of microchannel heat sinks to manage the thermal losses of power electronic, and specifically inverters in electric cars.
+      
       - title: "High School"
         school:
           name: "ESL High School (Fez, Morocco)."
+          url: ""
+        date: "2016-2017"
         content: |-
           High School diploma in mathematical science with high honors.<br>
           Laureate of "Concours générale des sciences et techniques", in the mathematics subject.
