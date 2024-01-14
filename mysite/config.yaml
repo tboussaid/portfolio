@@ -238,7 +238,7 @@ params:
   # Education
   education:
     enable: true
-    title: "Academic background and projects"
+    title: "Education and projects"
     index: false
     items:
       - title: "Engineer in Energy and Environmental Sciences"
@@ -261,7 +261,7 @@ params:
           name: "ESL High School (Fez, Morocco)."
         content: |-
           High School diploma in mathematical science with high honors.<br>
-          Global year average: 18.82 out of 20.
+          Laureate of "Concours générale des sciences et techniques", in the mathematics subject.
         
 
   # Achievements
