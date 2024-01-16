@@ -156,11 +156,9 @@ params:
     content: |-
       I am currently a PhD candidate at [INSA Lyon, France](https://www.insa-lyon.fr/en/). Specifically, my thesis is being held in two laboratories: 
       
-      - [CETHIL](https://cethil.insa-lyon.fr/en/), center for energy and thermal sciences of Lyon.
+      1. [CETHIL](https://cethil.insa-lyon.fr/en/), center for energy and thermal sciences of Lyon.
 
-      
-
-      - [LIRIS](https://liris.cnrs.fr/en), image and information systems Laboratory.
+      2. [LIRIS](https://liris.cnrs.fr/en), image and information systems Laboratory.
 
       During my 5 years of engineering studies I had the opportunity to work on different projects, with different scopes : CFD / Energy optimization / Environmental policies / CAD / AI & Data.Sc.
 
