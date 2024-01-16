@@ -305,7 +305,7 @@ params:
     items:
       - title: Machine Learning for time series analysis
         content: |-
-          I am in charge of giving lectures and tutorials to final-year undergrade students at Energy and Environment department at INSA.<br>
+          I am in charge of giving lectures and tutorials to final-year graduate students at Energy and Environment department at INSA.<br>
           - Statistical tools (autocorrelation, Dickey-Fuller tests...),
           - Standard models (ARIMA models, Exponential smoothing),
           - Deep Learning Models (LSTM, GRU). 
@@ -318,32 +318,32 @@ params:
           - icon: fab fa-github
             url: https://github.com/benjaminbertin/gen-2023/blob/main/notebooks/12-time-series.ipynb
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+      - title: Hilbertian Analysis
+        content: |-
+          Tutorials in hilbertian analysis for bachelor level students. The program covers:
+          - Integration,
+          - Differential equations and numerical methods,
+          - Laplace and Fourier transforms,
+          - Hilbert spaces and operators.
+        image: /images/projects/hilbert.png
         badges:
-          - "Django"
-          - "Bootstrap"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+          - "Maths"
+          - "Convolution"
+          - "ODE"
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+      - title: Teaching assistant for undergrad
+        content: |-
+          Tutorials and lectures for undegrad students in:
+          - Mathematics (linear algebra, real functions, probabilities),
+          - Physics (mechanics, electrodynamics),
+          - Coupled heat transfers,
+          - Python (numpy, scipy).
+        image: /images/projects/assistant.png
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+          - "Maxwell equations"
+          - "Linear Algebra"
+          - "Tensors"
+          - "Statistical tests"
 
   #Contact
   contact:
