@@ -314,6 +314,9 @@ params:
           - "Linear Algebra"
           - "Tensors"
           - "Statistical tests"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/tboussaid/python-beginners
 
   #Contact
   contact:
