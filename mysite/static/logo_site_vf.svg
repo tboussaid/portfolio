@@ -116,7 +116,7 @@
              cy="56.043087"
              r="33" /></g></g><g
          id="g3"
-         transform="matrix(1.1899007,0,0,1.1899007,-16.145376,-11.607425)"
+         transform="matrix(1.2597275,0,0,1.2597275,-21.98401,-14.529476)"
          style="stroke:#007bff;stroke-opacity:1"><g
            id="g1"
            transform="matrix(0.36930803,0.4278821,-0.4278821,0.36930803,48.472792,-35.004009)"
@@ -216,13 +216,14 @@
              r="33" /></g></g><g
          id="g6"
          style="stroke:#07c5ec;stroke-width:1.34403;stroke-dasharray:none;stroke-opacity:0.917647"
-         transform="matrix(1.2397254,0,0,1.2397254,-19.375551,-12.284712)"><g
+         transform="matrix(1.2397254,0,0,1.2397254,-20.257261,-11.403002)"><g
            id="g8"
            transform="matrix(1.1879995,0,0,1.1879995,-16.283414,-10.73611)"
            style="stroke-width:1.13133;stroke-dasharray:none"><g
              id="g9"
-             transform="translate(0.14966442,-0.00432862)"><rect
-               style="fill:none;stroke:#007bff;stroke-width:1.13133;stroke-dasharray:none;stroke-opacity:1"
+             transform="translate(0.14966442,-0.00432862)"
+             style="fill:#007bff;fill-opacity:1"><rect
+               style="fill:#007bff;fill-opacity:1;stroke:#007bff;stroke-width:1.13133;stroke-dasharray:none;stroke-opacity:1"
                id="rect5"
                width="6.3812585"
                height="4.0804443"
@@ -230,6 +231,6 @@
                y="46.567646"
                ry="0.43053934"
                rx="0.33058017" /><path
-               style="fill:none;stroke:#007bff;stroke-width:1.13133;stroke-dasharray:none;stroke-opacity:1"
+               style="fill:#007bff;fill-opacity:1;stroke:#007bff;stroke-width:1.13133;stroke-dasharray:none;stroke-opacity:1"
                d="m 84.776676,63.853227 -0.0313,-15.786926 c 4e-6,-0.497218 0.468201,-1.609862 1.477407,-1.633152 l 5.940107,2e-6 c 2.204293,0.197454 2.24712,2.734377 2.24712,4.097413 -1.906885,0 -5.17256,-0.128472 -5.495501,0.134448 -0.360364,1.214951 -0.09575,8.881694 -0.143626,13.322541 z"
                id="path5" /></g></g></g></g></g></svg>
